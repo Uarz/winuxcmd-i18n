@@ -2281,6 +2281,7 @@
     "command.xxd.error.invalid_columns": "xxd: 列数无效",
     "command.xxd.error.invalid_hex_dump": "xxd: 无效的十六进制转储",
     "command.xxd.option.cols": "设置每行字节数",
+    "command.xxd.option.group": "设置每个十六进制分组的字节数",
     "command.xxd.option.include": "以 C include 文件格式输出",
     "command.xxd.option.len": "将输入限制为 LEN 个字节",
     "command.xxd.option.name": "为 C include 输出指定变量名",
