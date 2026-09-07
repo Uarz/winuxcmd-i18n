@@ -2348,7 +2348,7 @@
     "common.error.invalid_encoding": "无效的编码 '{}'",
     "common.error.invalid_group": "组无效：'{}'",
     "common.error.invalid_input": "输入无效",
-    "common.error.invalid_input_range": "输入范围无效",
+    "common.error.invalid_input_range": "输入范围无效：'{}'",
     "common.error.invalid_length": "长度无效",
     "common.error.invalid_line_count": "行数无效",
     "common.error.invalid_mode": "模式无效：'{}'",
@@ -3413,6 +3413,16 @@
     "legacy.ac745206452fe168": "请先运行 'updatedb' 构建数据库。",
     "legacy.ca616071bc153369": "vmstat: 无法获取内存状态",
     "legacy.f4af7283295ccde5": "w: 无法枚举会话",
-    "legacy.4741b0a7dde8ac5a": "printf：转义序列中缺少十六进制数字"
+    "legacy.4741b0a7dde8ac5a": "printf：转义序列中缺少十六进制数字",
+    "common.error.invalid_line_count_value": "行数无效：'{}'",
+    "common.error.invalid_num_bytes": "字节数无效：'{}'",
+    "common.error.invalid_num_lines": "行数无效：'{}'",
+    "common.error.tab_invalid_chars": "制表符大小包含无效字符：'{}'",
+    "common.error.tab_too_large": "制表位太大 '{}'",
+    "common.error.tab_zero": "制表符大小不能为 0",
+    "common.error.value_too_large": "：值超出数据类型可表示的范围",
+    "common.error.unary_operator": "'{}'：应为一元运算符",
+    "common.error.invalid_integer": "无效整数 '{}'",
+    "common.error.missing_arg_after": "在 '{}' 后缺少参数"
   }
 }
