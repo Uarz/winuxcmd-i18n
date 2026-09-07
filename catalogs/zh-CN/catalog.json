@@ -3420,6 +3420,8 @@
     "legacy.4741b0a7dde8ac5a": "printf：转义序列中缺少十六进制数字",
     "common.error.invalid_line_count_value": "行数无效：'{}'",
     "common.error.invalid_num_bytes": "字节数无效：'{}'",
+    "common.error.invalid_num_columns": "列数无效：'{}'",
+    "common.error.numerical_range": "数值结果超出范围",
     "common.error.invalid_num_lines": "行数无效：'{}'",
     "common.error.tab_invalid_chars": "制表符大小包含无效字符：'{}'",
     "common.error.tab_too_large": "制表位太大 '{}'",
