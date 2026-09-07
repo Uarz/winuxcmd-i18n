@@ -3423,6 +3423,8 @@
     "common.error.invalid_num_columns": "列数无效：'{}'",
     "common.error.numerical_range": "数值结果超出范围",
     "common.error.invalid_num_lines": "行数无效：'{}'",
+    "common.error.invalid_num_chunks": "块数无效：'{}'",
+    "common.error.invalid_chunk_number": "块号无效：'{}'",
     "common.error.tab_invalid_chars": "制表符大小包含无效字符：'{}'",
     "common.error.tab_too_large": "制表位太大 '{}'",
     "common.error.tab_zero": "制表符大小不能为 0",
