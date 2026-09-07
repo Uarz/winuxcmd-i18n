@@ -3412,6 +3412,7 @@
     "legacy.c43e52344233bcc8": "namei: 缺少操作数",
     "legacy.ac745206452fe168": "请先运行 'updatedb' 构建数据库。",
     "legacy.ca616071bc153369": "vmstat: 无法获取内存状态",
-    "legacy.f4af7283295ccde5": "w: 无法枚举会话"
+    "legacy.f4af7283295ccde5": "w: 无法枚举会话",
+    "legacy.4741b0a7dde8ac5a": "printf：转义序列中缺少十六进制数字"
   }
 }
