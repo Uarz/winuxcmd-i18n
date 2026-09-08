@@ -3431,6 +3431,14 @@
     "common.error.value_too_large": "：值超出数据类型可表示的范围",
     "common.error.unary_operator": "'{}'：应为一元运算符",
     "common.error.invalid_integer": "无效整数 '{}'",
-    "common.error.missing_arg_after": "在 '{}' 后缺少参数"
+    "common.error.missing_arg_after": "在 '{}' 后缺少参数",
+    "legacy.5772b0a3a9bd77f8": "date: 参数 '",
+    "legacy.5b6df807e7854ae7": "' 缺少前导 '+'；",
+    "legacy.85d8eff8b62f6638": "使用选项指定日期时，任何非选项",
+    "legacy.02199664f8be17bb": "参数都必须是以 '+' 开头的格式字符串",
+    "legacy.1475681d176a3d3e": "date: 指定了多种输出格式",
+    "legacy.ea4950b1201f9346": "date: 用于指定打印日期的选项互相排斥",
+    "legacy.3499e301664b95b3": "date: 打印时间与设置时间的选项不能同时使用",
+    "legacy.e14a88b299aabdd4": "date: 无法设置日期"
   }
 }
