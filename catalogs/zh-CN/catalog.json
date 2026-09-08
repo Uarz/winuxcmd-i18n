@@ -3487,6 +3487,13 @@
     "command.wpm.error.stage_core": "wpm：暂存 winuxcmd.exe 失败：{}",
     "command.wpm.error.staged_missing": "wpm：找不到暂存的 winuxcmd.exe",
     "command.wpm.error.extract_failed": "wpm：{} 解压失败；Windows tar.exe 返回 {}",
-    "command.wpm.option.yes": "跳过交互提示，直接确认"
+    "command.wpm.option.yes": "跳过交互提示，直接确认",
+    "common.error.summarize_and_show_all": "无法同时汇总并显示所有文件",
+    "common.error.multiple_output_files": "指定了多个输出文件",
+    "common.error.options_incompatible": "选项 '{}' 不兼容",
+    "common.error.invalid_tab_size": "无效的制表符大小：'{}'",
+    "common.error.too_few_xs": "模板 '{}' 中的 X 太少",
+    "command.pr.error.invalid_number": "'{}' {} 数目无效：'{}'",
+    "command.pr.error.extra_characters": "'{}' 参数中有多余字符或无效数字：'{}'"
   }
 }
