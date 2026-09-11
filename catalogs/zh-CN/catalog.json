@@ -1491,6 +1491,7 @@
     "command.od.option.width": "每行输出的字节数",
     "command.od.option.x": "选择十六进制双字节单元",
     "command.od.synopsis": "od [OPTION]... [FILE]...",
+    "command.od.error.cannot_open": "od: {}：没有那个文件或目录",
     "command.paste.description": "合并文件的行。\n\n将由每个 FILE 中按顺序对应的行组成的行写入标准输出，\n各行之间以 TAB 分隔。\n没有 FILE，或 FILE 为 - 时，从标准输入读取。\n\n长选项的必需参数对于短选项同样是必需的。\n\n注意：此实现支持基本的 paste 功能。",
     "command.paste.option.delimiters": "使用 LIST 中的字符代替 TAB",
     "command.paste.option.serial": "一次粘贴一个文件，而不是并行处理",
@@ -3500,7 +3501,9 @@
     "command.wpm.error.manifest_fetch": "wpm：从 '{}' 获取清单失败：{}",
     "command.wpm.error.manifest_open": "wpm：无法打开清单 '{}'",
     "command.wpm.error.manifest_empty": "wpm：清单 '{}' 缺少 [packages] wpm 列表",
-    "command.wpm.error.manifest_conflict": "wpm：--from 不能与包参数同时使用"
+    "command.wpm.error.manifest_conflict": "wpm：--from 不能与包参数同时使用",
+    "legacy.37e16041c4876779": "tee: 读取错误：坏的文件描述符",
+    "legacy.cd82775ed91b7582": "cat: -：坏的文件描述符"
   },
   "schema": 1
 }
